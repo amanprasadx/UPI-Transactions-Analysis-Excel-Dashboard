@@ -60,7 +60,7 @@ UPI-Transactions-Analysis/
 ## 🚀 How to Use
 1. Clone or download this repository.
 2. Open the `dashboard` folder.
-3. Download `UPI_Transactions_Dashboard.xlsx`.
+3. Download `UPI_Transactions_Dashboard.gz`.
 4. Open the workbook in Microsoft Excel.
 5. Explore the dashboard using its interactive filters and visualizations.
 ## 📚 Skills Demonstrated

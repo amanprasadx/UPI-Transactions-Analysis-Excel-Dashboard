@@ -38,6 +38,7 @@ The dashboard helps explore transaction patterns by UPI application, bank, state
 - KPI Analysis
 - Business Intelligence Reporting
 ## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![UPI Transactions Dashboard](images/UPI_Dashboard_Preview.png)
 ## 💡 Key Insights
 - The dashboard displays 5,02,887 UPI transactions.
@@ -53,7 +54,7 @@ The dashboard helps explore transaction patterns by UPI application, bank, state
 UPI-Transactions-Analysis/
 ├── README.md
 ├── dashboard/
-│   └── UPI_Transactions_Dashboard.xlsx
+│   └── UPI_Transactions_Dashboard.gz
 └── images/
     └── UPI_Dashboard_Preview.png
 ```
